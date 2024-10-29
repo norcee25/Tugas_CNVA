@@ -1,4 +1,5 @@
 # Tugas_CNVA
 nama kelompok:
 Norce Tanaty
-avril kamu
+carol Langi
+avril Agnes Kamu
