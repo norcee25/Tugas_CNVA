@@ -1,10 +1,10 @@
 import Search from "./Search";
 import CardInfo from "./Card-Info";
 const Home = () => {
-  const apphome = "Hello (Home)";
+  const CNVAfooter = "Hello (Home)";
   return (
     <div>
-      <h2>{apphome}</h2>
+      <h2>{CNVAfooter}</h2>
       <Search />
       <CardInfo />
     </div>

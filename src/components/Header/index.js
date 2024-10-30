@@ -1,10 +1,10 @@
 import Logo from "./Logo";
 import Generation from "./Generation";
 const Header = () => {
-    const Appheader= "Hello (Header)"
+    const CNVAfooter= "Hello (Header)"
     return (
       <div>
-        <h2>{Appheader}</h2>
+        <h2>{CNVAfooter}</h2>
         <Logo/>
         <Generation/>
       </div>

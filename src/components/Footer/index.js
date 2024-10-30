@@ -1,8 +1,8 @@
 const Footer = () => {
-    const appfooter = "Hello (Footer)"
+    const CNVAfooter = "Hello (Footer)"
     return (
       <div>
-        <h2>{appfooter}</h2>
+        <h2>{CNVAfooter}</h2>
       </div>
     );
   };
